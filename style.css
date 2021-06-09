@@ -32,3 +32,32 @@ h1 {
     margin-left: 450px;
     
 }
+body {
+    background-color: black;
+}
+label {
+    color: white;
+}
+.btn {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.btn:hover {
+    background-color: grey;
+    border-color: white;
+}
+.gitHub {
+    color: white;
+    background-color: grey;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 475px;
+}
+.gitHub:hover {
+    color: midnightblue;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
