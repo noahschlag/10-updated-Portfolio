@@ -61,3 +61,17 @@ h2 {
     color: white;
     text-align: center;
 }
+.accordion-item {
+    color: white;
+}
+.accordion-button {
+    color: white;
+}
+.accordionOne {
+    font-size: 20px;
+    text-align: center;
+}
+.accordionTwo {
+    font-size: 20px;
+    text-align: center;
+}
